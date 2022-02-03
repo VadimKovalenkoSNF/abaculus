@@ -11,15 +11,15 @@
 		"url": "git@github.com:mapbox/abaculus.git"
 	},
 	"dependencies": {
-		"@kartotherian/tilelive-bridge": "^3.1.1",
+		"@kartotherian/tilelive-bridge": "github:VadimKovalenkoSNF/tilelive-bridge#node12",
 		"@mapbox/sphericalmercator": "1.0.x",
 		"d3-queue": "^2.0.2"
 	},
 	"devDependencies": {
-		"@kartotherian/mapnik": "^3.7.3",
+		"mapnik": "^4.5.9",
 		"mocha": "2.x"
 	},
 	"peerDependencies": {
-		"@kartotherian/mapnik": "~3.7.3"
+		"mapnik": "~4.5.9"
 	}
 }
