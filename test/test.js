@@ -2,7 +2,7 @@ var assert = require('assert');
 var printer = require('../');
 var fs = require('fs');
 var path = require('path');
-var mapnik = require('@kartotherian/mapnik');
+var mapnik = require('mapnik');
 
 // defaults
 var zoom = 5,
