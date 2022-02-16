@@ -11,7 +11,7 @@
 		"url": "git@github.com:mapbox/abaculus.git"
 	},
 	"dependencies": {
-		"@kartotherian/tilelive-bridge": "github:VadimKovalenkoSNF/tilelive-bridge#node12",
+		"@kartotherian/tilelive-bridge": "^3.1.1",
 		"@mapbox/sphericalmercator": "1.0.x",
 		"d3-queue": "^2.0.2"
 	},
